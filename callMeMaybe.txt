@@ -1,0 +1,48 @@
+Last name: Jepsen
+First name: Carly
+Middle name: Rae
+Prefix: Miss
+Phone number: 003-001-2012
+Email address: laughing@this.com
+Street: Somewhere in Canada
+City: Mission
+State: British Columbia
+ZIP code: 00000
+Occupation: Singer
+
+Last name: I threw a wish in the well
+First name: Don't ask me I'll never tell
+Middle name: I looked at you as it fell
+Prefix: And now you're in my way
+Phone number: 000-000-0000
+Email address: I trade my soul for a wish
+Street: Pennies and dimes for a kiss
+City: I wasn't looking for this
+State: But now you're in my way
+ZIP code: 11111
+Occupation: Your stare was holding
+
+Last name: Ripped jeans
+First name: Skin was showing
+Middle name: Hot night
+Prefix: Wind was blowing
+Phone number: 000-000-0000
+Email address: Where you think you're going baby?
+Street: Hey I just met you
+City: And this is crazy
+State: But here's my number
+ZIP code: 22222
+Occupation: So call me maybe
+
+Last name: It's hard to look right at you baby
+First name: But here's my number
+Middle name: So call me maybe
+Prefix: The End
+Phone number: 000-000-0000
+Email address: No more, please!
+Street: I can't take this any more
+City: This song is so bad
+State: Arrrrrrggghhhh
+ZIP code: 33333
+Occupation: Sadness.
+
