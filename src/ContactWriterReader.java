@@ -78,7 +78,7 @@ public class ContactWriterReader {
 				contacts[i].setState(read.readLine());
 				contacts[i].setZip(read.readLine());
 				contacts[i].setOccupation(read.readLine());
-				read.skip(1L);
+				read.readLine();
 				
 				i++;
 			}
